@@ -78,6 +78,10 @@ the **economic and organizational shifts** in the technology sector.
 **histogram of total layoffs** 
 <img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/9bca0857-cd02-497e-91cd-9beb3b4c47fd" />
 
+## Install dependencies with:  
+
+pip install pandas numpy matplotlib seaborn
+
 
 ## 🧩 Tools & Libraries  
 
@@ -89,11 +93,6 @@ the **economic and organizational shifts** in the technology sector.
 
 - **Seaborn** → Advanced plotting & aesthetics  
 
-Install dependencies with:  
-
-```bash
-
-pip install pandas numpy matplotlib seaborn
 
 ## Key Insights
 
