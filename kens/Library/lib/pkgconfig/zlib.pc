@@ -1,0 +1,13 @@
+prefix=C:/Task 2/kens/Library
+exec_prefix=C:/Task 2/kens/Library
+libdir=C:/Task 2/kens/Library/lib
+sharedlibdir=C:/Task 2/kens/Library/lib
+includedir=C:/Task 2/kens/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
